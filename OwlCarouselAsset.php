@@ -6,7 +6,7 @@ use yii\web\AssetBundle;
 
 class OwlCarouselAsset extends AssetBundle
 {
-    public $sourcePath = '@vendor/npm/owl.carousel/dist';
+    public $sourcePath = '@npm/owl.carousel/dist';
 
     public $js = [
         YII_DEBUG ? 'owl.carousel.js' : 'owl.carousel.min.js',
