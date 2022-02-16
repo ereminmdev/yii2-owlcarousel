@@ -16,10 +16,12 @@ https://owlcarousel2.github.io/OwlCarousel2/docs/started-welcome.html
 
 For the same item heights use:
 
-``
+```
 .owl-stage {
     display: flex;
     flex-wrap: wrap;
     align-items: stretch;
 }
-``
+```
+
+To work properly inside a CSS Grid cell, set `min-width: 100%` to the parent element.
