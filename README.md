@@ -2,11 +2,11 @@
 
 OwlCarousel widget for Yii framework.
 
-This widget depend on OwlCarousel script: https://owlcarousel2.github.io/OwlCarousel2
+This widget depends on OwlCarousel script: https://owlcarousel2.github.io/OwlCarousel2
 
 ## Install
 
-``composer require ereminmdev/yii2-owlcarousel``
+``composer require --prefer-dist ereminmdev/yii2-owlcarousel``
 
 ## Documentation
 
